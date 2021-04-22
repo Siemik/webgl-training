@@ -1,1 +1,3 @@
-# webgl-training
+<!-- @format -->
+
+parcel index.html

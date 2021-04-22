@@ -1,4 +1,4 @@
-1169
+1172
 104C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\webgl\WebGLBindingStates.js121436361000000000 0
 132C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\displacementmap_pars_vertex.glsl.js121436361000000000 0
 61C:\Users\user\Desktop\GitHub\webgl-training\package-lock.json132634969354157925 0
@@ -9,21 +9,25 @@
 105C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\nodes\inputs\ReflectorNode.js121436361000000000 0
 100C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\exporters\PLYExporter.js121436361000000000 0
 112C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\nodes\materials\PhongNodeMaterial.js121436361000000000 0
-50C:\Users\user\Desktop\GitHub\webgl-training\app.js132634976498262614 0
+50C:\Users\user\Desktop\GitHub\webgl-training\app.js132635902071368119 0
 94C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\WebGL1Renderer.js121436361000000000 0
 105C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\postprocessing\HalftonePass.js121436361000000000 0
 93C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\geometries\ConeGeometry.js121436361000000000 0
 97C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\misc\MorphAnimMesh.js121436361000000000 0
-54C:\Users\user\Desktop\GitHub\webgl-training\.gitignore132634943436751096 0
+54C:\Users\user\Desktop\GitHub\webgl-training\.gitignore132635142231075385 0
 97C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\shaders\CopyShader.js121436361000000000 0
 89C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\lights\AmbientLight.js121436361000000000 0
 114C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\renderers\nodes\accessors\ModelNode.js121436361000000000 0
-48C:\Users\user\Desktop\GitHub\webgl-training\dist132635141724986506 1
-54C:\Users\user\Desktop\GitHub\webgl-training\index.html132635141723680631 0
-83C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\extras\Earcut.js121436361000000000 0
-95C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\loaders\3MFLoader.js121436361000000000 0
-117C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\renderers\nodes\accessors\PositionNode.js121436361000000000 0
-62C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three132634969353908596 1
+48C:\Users\user\Desktop\GitHub\webgl-training\dist132635901187146640 1
+85C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\libs\draco132634969352098367 1
+81C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\webxr132634969349625544 1
+78C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\math\Ray.js121436361000000000 0
+84C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\scenes\FogExp2.js121436361000000000 0
+75C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm132634969346524538 1
+106C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\animation\tracks\StringKeyframeTrack.js121436361000000000 0
+128C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\encodings_pars_fragment.glsl.js121436361000000000 0
+54C:\Users\user\Desktop\GitHub\webgl-training\styles.css132635898711868553 0
+54C:\Users\user\Desktop\GitHub\webgl-training\index.html132635898721497433 0
 88C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\loaders\FileLoader.js121436361000000000 0
 125C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\envmap_pars_fragment.glsl.js121436361000000000 0
 56C:\Users\user\Desktop\GitHub\webgl-training\node_modules132634969353998365 1
@@ -34,6 +38,10 @@
 53C:\Users\user\Desktop\GitHub\webgl-training\README.md132634925596811157 0
 100C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\shaders\ColorifyShader.js121436361000000000 0
 101C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\exporters\USDZExporter.js121436361000000000 0
+83C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\extras\Earcut.js121436361000000000 0
+95C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\loaders\3MFLoader.js121436361000000000 0
+117C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\renderers\nodes\accessors\PositionNode.js121436361000000000 0
+62C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three132634969353908596 1
 99C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\shaders\MirrorShader.js121436361000000000 0
 97C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\shaders\BasicShader.js121436361000000000 0
 76C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\animation132634969340807243 1
@@ -151,15 +159,10 @@
 88C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\helpers\GridHelper.js121436361000000000 0
 98C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\renderers\webgpu\nodes132634969348086674 1
 128C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\morphtarget_pars_vertex.glsl.js121436361000000000 0
-91C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\textures\VideoTexture.js121436361000000000 0
-99C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\webgl\WebGLClipping.js121436361000000000 0
 106C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\shaders\HueSaturationShader.js121436361000000000 0
 100C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\webgl\WebGLAnimation.js121436361000000000 0
-85C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\libs\draco132634969352098367 1
-81C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\webxr132634969349625544 1
-78C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\math\Ray.js121436361000000000 0
-84C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\scenes\FogExp2.js121436361000000000 0
-75C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm132634969346524538 1
+99C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\webgl\WebGLClipping.js121436361000000000 0
+91C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\textures\VideoTexture.js121436361000000000 0
 105C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\webgl\WebGLBufferRenderer.js121436361000000000 0
 99C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\nodes\inputs\RTTNode.js121436361000000000 0
 83C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\helpers132634969345274823 1
@@ -365,8 +368,6 @@
 98C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\shaders\BokehShader.js121436361000000000 0
 123C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\dithering_fragment.glsl.js121436361000000000 0
 125C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\emissivemap_fragment.glsl.js121436361000000000 0
-106C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\animation\tracks\StringKeyframeTrack.js121436361000000000 0
-128C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\encodings_pars_fragment.glsl.js121436361000000000 0
 103C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\webxr\XRHandModelFactory.js121436361000000000 0
 132C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\renderers\shaders\ShaderChunk\envmap_common_pars_fragment.glsl.js121436361000000000 0
 87C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\extras\core\Shape.js121436361000000000 0
@@ -475,7 +476,7 @@
 82C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\objects\Mesh.js121436361000000000 0
 86C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\objects\Skeleton.js121436361000000000 0
 99C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\materials\MeshLambertMaterial.js121436361000000000 0
-66C:\Users\user\Desktop\GitHub\webgl-training\dist\index.1397955d.js132635141724846991 0
+66C:\Users\user\Desktop\GitHub\webgl-training\dist\index.1397955d.js132635901187026951 0
 89C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\src\objects\SkinnedMesh.js121436361000000000 0
 106C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\webxr\XRHandOculusMeshModel.js121436361000000000 0
 96C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\objects\ShadowMesh.js121436361000000000 0
@@ -726,6 +727,7 @@
 103C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\libs\opentype.module.min.js121436361000000000 0
 108C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\shaders\ColorCorrectionShader.js121436361000000000 0
 101C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\shaders\ColorifyShader.js121436361000000000 0
+71C:\Users\user\Desktop\GitHub\webgl-training\dist\index.fc33897e.css.map132635901186867380 0
 89C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\misc\.DS_Store121436361000000000 0
 100C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\jsm\shaders\DigitalGlitch.js121436361000000000 0
 79C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\examples\js\math132634969342462992 1
@@ -1165,6 +1167,7 @@
 77C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\build\three.js121436361000000000 0
 81C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\build\three.min.js121436361000000000 0
 84C:\Users\user\Desktop\GitHub\webgl-training\node_modules\three\build\three.module.js121436361000000000 0
-70C:\Users\user\Desktop\GitHub\webgl-training\dist\index.1397955d.js.map132635141724976531 0
+70C:\Users\user\Desktop\GitHub\webgl-training\dist\index.1397955d.js.map132635901187126697 0
 70C:\Users\user\Desktop\GitHub\webgl-training\dist\index.96f5227c.js.map132634957002077472 0
-59C:\Users\user\Desktop\GitHub\webgl-training\dist\index.html132635141724630211 0
+67C:\Users\user\Desktop\GitHub\webgl-training\dist\index.fc33897e.css132635901186737735 0
+59C:\Users\user\Desktop\GitHub\webgl-training\dist\index.html132635888965153460 0
