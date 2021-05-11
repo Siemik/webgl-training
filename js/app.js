@@ -19,12 +19,13 @@ export default class Sketch {
 		this.camera.position.y = 0;
 		this.camera.position.x = 0.3;
 
-		this.renderer = new THREE.WebGLRenderer( { antialias: true } );
+		this.renderer = new THREE.WebGLRenderer( { antialias: true, alpha: true} );
 		this.renderer.setSize( this.width, this.height );
 		// this.renderer.setAnimationLoop( animation );
 		this.container.appendChild( this.renderer.domElement );
 
 		this.controls = new OrbitControls( this.camera, this.renderer.domElement );
+		this.controls.enabled = false;
 
 		this.resize()
 		this.setupResize();
