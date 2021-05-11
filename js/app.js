@@ -1,5 +1,4 @@
 import * as THREE from 'three';
-import { ShaderMaterial } from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import fragment from './shaders/fragment.glsl'
 import vertex from './shaders/vertex.glsl'
